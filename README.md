@@ -3,7 +3,7 @@ This Project is about creating a 2D game using the 42 Custom library, Minilibx.
 Read the [subject.pdf](https://github.com/Tempest989/So_Long/blob/main/en.subject.pdf) for in-depth information about the Project.
 ### **WARNING: This Project will only work on Mac.**
 # My Score
-<img width="1347" alt="ft_printf Score" src="https://user-images.githubusercontent.com/55472613/178435046-1fe9b18c-df8b-40bd-ac35-78aa37d0553d.png">
+<img width="1347" alt="So_Long Score" src="https://user-images.githubusercontent.com/55472613/178904454-001e4ee1-3319-4f0c-a5f2-8261820eb4de.png">
 
 # Makefile Utility
 - `make compile` will compile the Minilibx library, then compile the So_Long Project, as the executable `so_long`.
