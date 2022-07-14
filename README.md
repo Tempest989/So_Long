@@ -23,6 +23,10 @@ Read the [subject.pdf](https://github.com/Tempest989/So_Long/blob/main/en.subjec
 - `A` = Left.
 - `D` = Right.
 - `Esc` = Exit from the Game.
+# Playing So_Long
+![So_Long](https://user-images.githubusercontent.com/55472613/178911634-3518e081-5f16-46e9-9b48-db0ec9ce6e4b.gif)
+# Playing So_Dark
+![So_Dark](https://user-images.githubusercontent.com/55472613/178916913-dce4bee6-eaa1-49d8-bde1-0b9ba7984c0d.gif)
 # Difference Between So_Long and So_Dark
 So_Dark is a custom version of So_Long that I created as an extension of this Project, where instead of displaying the entire Map to the Player, So_Dark only displays a 3x3 grid around the Player intially and reveals the rest of the Map as the Player Moves around it, based on a 3x3 grid radius around the Player.
 - So_Dark has no effect on my So_Long score, since it doesn't match any of the Bonus sections.
