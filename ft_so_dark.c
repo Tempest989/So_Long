@@ -88,7 +88,7 @@ int	main(int ac, char *av[])
 	ft_check_outer_ber(&map);
 	map.mlx = mlx_init();
 	map.window = mlx_new_window(map.mlx, (map.num_col * 50 - 49),
-			(map.num_row * 50), "so_long");
+			(map.num_row * 50), "so_dark");
 	ft_initialize_images(&map);
 	ft_graphics(&map, 0, 0);
 	mlx_key_hook(map.window, ft_controls, &map);

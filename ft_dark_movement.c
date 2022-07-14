@@ -80,7 +80,7 @@ int	ft_movement(t_map_data *map, int x, int y)
 	if (map->map[y][x] == 'C')
 		map->collectables--;
 	else if (map->map[y][x] == 'E' && map->collectables == 0)
-		ft_error("so_long: Finished, Congratulations!\n", 36, 0, map);
+		ft_error("so_dark: Finished, Congratulations!\n", 36, 0, map);
 	if (map->exit_flag == 1)
 	{
 		map->map[map->player_y][map->player_x] = 'E';
@@ -111,7 +111,7 @@ int	ft_controls(int move, t_map_data *map)
 	else if (move == 2)
 		check = ft_movement(map, map->player_x + 1, map->player_y);
 	else if (move == 53)
-		ft_error("so_long: Exiting....\n", 21, 0, map);
+		ft_error("so_dark: Exiting....\n", 21, 0, map);
 	if (check == 0)
 		return (1);
 	count = -1;
